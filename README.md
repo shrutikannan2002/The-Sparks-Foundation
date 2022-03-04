@@ -27,27 +27,3 @@
 2. You can use R or Python to complete this task.
 3. Data can be found at: https://bit.ly/3kXTdox
 ---
-### TASK 6: Prediction using Decision Tree Algorithm
-***
-***Level: Intermediate***
-<br>Create the Decision Tree classifier and visualize it graphically.
-<br>**Language:** *Python*
-<br>**Platform:** *Google Colab*
-<br>
-<br>***The problem statement and the predictions that are to be made:***
-1. Predict the right class according to the data in the Iris dataset, and represent it visually.
-2. You can use R or Python to complete this task.
-3. Data can be found at: https://bit.ly/3kXTdox
----
-### TASK 7: Stock Market Prediction using Numerical and Textual Analysis
-***
-***Level: Advanced***
-<br>Create a hybrid model for stock price prediction using numerical analysis of historical stock prices and sentimental analysis of news headlines.
-<br>**Language:** *Python*
-<br>**Platform:** *Google Colab*
-<br>
-<br>***The problem statement and the predictions that are to be made:***
-1. Predict the stock price and performance using numerical and sentiment/textual analysis.
-2. You can use R or Python to complete this task.
-3. Data for historical stock prices can be found at: https://finance.yahoo.com/
-4. Data for textual data can be found at: https://bit.ly/36fFPI6
