@@ -26,4 +26,3 @@
 1. Predict the optimum number of clusters in the Iris dataset, and represent it visually.
 2. You can use R or Python to complete this task.
 3. Data can be found at: https://bit.ly/3kXTdox
----
